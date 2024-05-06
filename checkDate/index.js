@@ -39,6 +39,4 @@ module.exports = async function (context, myTimer) {
 	    } catch (error) {
 			console.error('Failed to retrieve Cosmos DB key:', error);
     }
-	
-    }
 };
