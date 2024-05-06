@@ -1,5 +1,4 @@
 module.exports = async function (context, myTimer) {
-	const { app } = require('@azure/functions');
 	const { CosmosClient } = require('@azure/cosmos');
 	
  var timeStamp = new Date().toISOString();
