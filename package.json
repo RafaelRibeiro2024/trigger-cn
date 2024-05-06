@@ -7,6 +7,6 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {    
-	"@azure/cosmos": "10.2.4"},
+	"@azure/cosmos": "4.0.0"},
   "devDependencies": {}
 }
